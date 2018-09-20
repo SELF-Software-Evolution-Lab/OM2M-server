@@ -7,7 +7,9 @@ The python file read_la.py, uses the API REST of OM2M to read the last data sent
 
 On both files you must configure username and password.
 
-The server IP is http://13.58.183.185/webpage/
+The server IP is http://13.58.183.185/webpage/ and you can see the server content in your browser.
+
+Aditional information can be found in https://wiki.eclipse.org/OM2M/one#Getting_started and https://wiki.eclipse.org/OM2M/one/REST_API.
 
 ## Libraries requirements.
 
