@@ -16,3 +16,5 @@ Aditional information can be found in https://wiki.eclipse.org/OM2M/one#Getting_
 requests==2.19.1
 
 paho-mqtt==1.3.1
+
+A collection for postman is also available to add a virtual device using postman.
