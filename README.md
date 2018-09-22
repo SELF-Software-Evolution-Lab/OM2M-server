@@ -17,4 +17,5 @@ requests==2.19.1
 
 paho-mqtt==1.3.1
 
-A collection for postman is also available to add a virtual device using postman.
+## Using Postman.
+A collection is also available to add a virtual device using postman.
